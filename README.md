@@ -7,10 +7,10 @@ https://pan.baidu.com/s/1g2a38fmUzNDBAjxZHMAXyw  y9nz
 ```
 
 #### Network Structure
-<img src='./network_structure.png'></img>
+<img src='./eassy/network_structure.png'></img>
 
 #### Image
-<img src='./SHIDC_B_ki_67.png'></img>
+<img src='./eassy/SHIDC_B_ki_67.png'></img>
 
 
 
